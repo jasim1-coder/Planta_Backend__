@@ -1,0 +1,11 @@
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\jasim\OneDrive\Desktop\Planta_Backend\Domain\obj\Debug\net8.0\ref\Domain.dll
